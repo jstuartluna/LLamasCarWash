@@ -7,7 +7,7 @@ crear un programa para un lavado de carros que tenga un modulo de clientes, repo
 para mantener compatibilidad con programas de hoja de calculo las bases de texto plano deben ser fromato **csv**.
 
 
-##pasos para comenzar
+## pasos iniciales
 
 - instalar jdk mas reciente y un IDE como Intelij Comunity Edition.
 - crear cuente en github
