@@ -4,8 +4,8 @@ public class Facturas {
     private String numeroFactura;
     private String totalfacturado;
     private String descripcionServicio;
-    private String rtn;
-    private String clientes;
+    public String rtn;
+    public String clientes;
 
     public Facturas (String numeroFactura, String totalfacturado, String descripcionServicio, String rtn, String clientes){
         this.numeroFactura = numeroFactura;
